@@ -1,0 +1,6 @@
+
+chef.io/hello/hello.go	 matchInt	 100.00% (3/3)
+chef.io/hello/hello.go	 main		 0.00% (0/12)
+chef.io/hello		 --------	 20.00% (3/15)
+
+Total Coverage: 20.00% (3/15)
