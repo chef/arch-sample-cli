@@ -26,3 +26,7 @@ jobs:
 
     - name: Test
       run: go test -v ./...
+      
+    - name: SonarQube Scan
+      uses: kitabisa/sonarqube-action@v1.2.0
+
